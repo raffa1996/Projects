@@ -85,29 +85,5 @@ button.button:hover span:after {
 <button style="margin-left:10px" onclick="window.location.href='https://raffa1996.github.io/Projects'" class="button"><span>Projects </span></button><br>
 Find me on <a href="https://twitter.com/ra999666" class="fa fa-twitter"></a> and <a href="https://github.com/raffa1996" class="fa fa-github"></a>. 
 <br>
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
 * <a style="font-size:20px" href="https://github.com/raffa1996/Road-Traffic" class="app" target="_blank">Road Traffic Monitoring</a>  
 * <a style="font-size:20px" href="https://raffa1996.github.io/Klopp-and-his-Substitutions" class="app" target="_blank">Klopp and his Substitutions</a>  
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raffa1996/5yard5foot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
