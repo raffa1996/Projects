@@ -85,8 +85,8 @@ button.button:hover span:after {
 }
 
 </style>
-<button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Apps </span></button> | 
-<button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button><br>
+<button style="margin-right:40px; margin-left:140px" onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button style="margin-left:40px; margin-right:40px" onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Apps </span></button> | 
+<button style="margin-left:40px" onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button><br>
 Find me on <a href="https://twitter.com/ra999666" class="fa fa-twitter"></a> and <a href="https://github.com/raffa1996" class="fa fa-github"></a>. 
 <br>
 
@@ -99,8 +99,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. <a href="https://github.com/raffa1996/Road-Traffic" class="app" target="_blank">Road Traffic Monitoring</a>  
-
+* <a style="font-size:20px" href="https://github.com/raffa1996/Road-Traffic" class="app" target="_blank">Road Traffic Monitoring</a>  
+* <a style="font-size:20px" href="
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
