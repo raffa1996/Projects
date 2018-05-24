@@ -81,7 +81,7 @@ button.button:hover span:after {
 }
 
 </style>
-<button style="margin-right:10px; margin-left:170px" onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button style="margin-left:10px; margin-right:10px" onclick="window.location.href='https://raffa1996.github.io/Apps'" class="button"><span>Apps </span></button> | 
+<button style="margin-right:10px; margin-left:170px" onclick="window.location.href='https://raffa1996.github.io/5yards5feet'" class="button"><span>Home </span></button> |  <button style="margin-left:10px; margin-right:10px" onclick="window.location.href='https://raffa1996.github.io/Apps'" class="button"><span>Apps </span></button> | 
 <button style="margin-left:10px" onclick="window.location.href='https://raffa1996.github.io/Projects'" class="button"><span>Projects </span></button><br>
 Find me on <a href="https://twitter.com/ra999666" class="fa fa-twitter"></a> and <a href="https://github.com/raffa1996" class="fa fa-github"></a>. 
 <br>
