@@ -86,4 +86,5 @@ button.button:hover span:after {
 Find me on <a href="https://twitter.com/ra999666" class="fa fa-twitter"></a> and <a href="https://github.com/raffa1996" class="fa fa-github"></a>. 
 <br>
 * <a style="font-size:20px" href="https://github.com/raffa1996/Road-Traffic" class="app" target="_blank">Road Traffic Monitoring</a>  
-* <a style="font-size:20px" href="https://github.com/raffa1996/Champions-League-Final" class="app" target="_blank">Champions League Final 2017/18</a>  
+* <a style="font-size:20px" href="https://raffa1996.github.io/Klopp-and-his-Substitutions" class="app" target="_blank">Klopp and his Substitutions</a>  
+* <a style="font-size:20px" href="https://github.com/raffa1996/Champions-League-Final" class="app" target="_blank">Champions League Final 2017/18</a> 
